@@ -27,9 +27,7 @@ The goal of the website is to showcase the different variety of candels made and
 ---
 
 ## 🚀 Live Demo  
-👉 [View the Website Here](https://your-live-url.com)  
-
-*(Replace with your actual URL if hosted on GitHub Pages, Netlify, or Vercel.)*  
+👉 [![Netlify Status](https://api.netlify.com/api/v1/badges/7a9f092a-878f-438a-9a1d-59312488ed79/deploy-status)](https://app.netlify.com/projects/week8-multipage-website/deploys) 
 
 ---
 
